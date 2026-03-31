@@ -1,7 +1,8 @@
 # thinkpalm-agentai-ajithts-lab1
-Ajith T S
-Tech Lead
+Ajith T S,
+Tech Lead,
 Lab 1
+
 **What it does:**
 
 - takes a place name as input
